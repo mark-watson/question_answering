@@ -13,8 +13,8 @@ index = {"qa": "00_core.ipynb",
 
 modules = ["core.py"]
 
-doc_url = "https://{user}.github.io/{lib_name}/"
+doc_url = "https://mark-watson.github.io/question_answering/"
 
-git_url = "https://github.com/{user}/{lib_name}/tree/{branch}/"
+git_url = "https://github.com/mark-watson/question_answering/tree/main/"
 
 def custom_doc_links(name): return None
